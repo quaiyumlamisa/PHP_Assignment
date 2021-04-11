@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-image:url("i.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family:new time roman;
+
+}
+
+.btn-info{
+    margin-top:0px;
+    font-size:18px;
+    width:120px;
+    margin-left:0px;
+}
+   
+
+.float-right{
+
+    
+    margin-top:-400px;
+    
+}
+
+h1{
+    font-size:40px;
+    
+    margin-left:45%;
+}
+ 
+.content
+{ margin: auto;
+  font-size:30px;
+  width: 40%;
+  height:400px;
+  
+  padding-top:100px;
+  padding-left:12%;
+  color:blue;
+}
+
+
